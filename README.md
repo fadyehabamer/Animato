@@ -1,2 +1,2 @@
 # animato
-### Custom bootstrap 4 template that represent a fancy charachter called animato 👀
+> Custom **Bootstrap 4** template that represent a fancy charachter called Animato 👀
